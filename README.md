@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael  
-- 👀 I’m interested in C++, eBiking and gardening.
-- 🌱 I’m currently learning better/cleaner C++ Code
+- 👀 I’m interested in C++, eBiking and gardening and GitHub.
+- 🌱 I’m currently learning better/cleaner C++ Code, use of git (on workplace we use subversion currently)
 - 💞️ I’m looking to collaborate on a interesting project
 - 📫 How to reach me: m-kling@t-online.de
 
